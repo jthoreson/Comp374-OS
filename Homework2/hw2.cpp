@@ -33,7 +33,11 @@ void __cdecl _tmain(int argc, TCHAR *argv[])
 		endOfFile = (BytesRead > 0);
 		if (endOfFile == TRUE)						//once it is done it writes the file
 		{
+<<<<<<< HEAD
 			WriteFile(writeFile, readBuffer, aBytesRead, NULL, NULL);
+=======
+			WriteFile(writeFile, readBuffer, BytesRead, NULL, NULL);
+>>>>>>> 69e5934e06d0adb43ce920a0aee1c3cf269dd442
 		}
 	}
 	end = clock();
