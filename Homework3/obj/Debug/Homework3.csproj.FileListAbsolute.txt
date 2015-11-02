@@ -1,0 +1,12 @@
+C:\Users\Jacob\Desktop\operatingsystemshomework3\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\Jacob\Desktop\operatingsystemshomework3\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\operatingsystemshomework3\Homework3\bin\Debug\Homework3.exe
+C:\Users\Jacob\Desktop\operatingsystemshomework3\Homework3\bin\Debug\Homework3.pdb
+C:\Users\Jacob\Desktop\operatingsystemshomework3\Homework3\obj\Debug\Homework3.exe
+C:\Users\Jacob\Desktop\operatingsystemshomework3\Homework3\obj\Debug\Homework3.pdb
+C:\Users\Jacob\Desktop\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\Jacob\Desktop\Homework3\obj\Debug\Homework3.exe
+C:\Users\Jacob\Desktop\Homework3\obj\Debug\Homework3.pdb
+C:\Users\Jacob\Documents\GitHub\Comp374-OS\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\Jacob\Documents\GitHub\Comp374-OS\Homework3\obj\Debug\Homework3.exe
+C:\Users\Jacob\Documents\GitHub\Comp374-OS\Homework3\obj\Debug\Homework3.pdb
